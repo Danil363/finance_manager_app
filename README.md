@@ -35,5 +35,5 @@ persistent data storage.
 
 ```bash
 git clone https://github.com/Danil363/finance_manager_app.git
-cd finance-manager
+cd finance_manager_app
 pip install -r requirements.txt
